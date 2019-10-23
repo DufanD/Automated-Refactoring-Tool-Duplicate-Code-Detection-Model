@@ -24,4 +24,6 @@ public class CloneCandidate {
     private MethodModel methodModel;
 
     private Long loc;
+
+    private String path;
 }

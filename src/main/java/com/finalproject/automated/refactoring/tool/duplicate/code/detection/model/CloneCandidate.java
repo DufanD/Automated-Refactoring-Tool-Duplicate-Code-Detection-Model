@@ -26,4 +26,6 @@ public class CloneCandidate {
     private Long loc;
 
     private String path;
+
+    private int flag;
 }
